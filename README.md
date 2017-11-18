@@ -56,6 +56,18 @@ Need of the time is to save our resources. If we keep overusing resources on the
 It is important to match the needs with the wants of our audience to form a connection and provide solution based on what they are actually interested in and what do they care about. Hence the wants of our audience are health, luxury and safety of our next generation. 
 By understanding the fears, we will be able to relate it back to wants and suggest actions. Loss of life due to drastic climate change, food scarcity leading to terrorism in various countries are few of the fears.
 
-ACTION
+ACTIONS
 
 Make this a priority issue for all countries so that it is addressed before all other issues. Government of all countries need to unite on international level and introduce “Fossil Fuel free country” policy and make it mandatory for all. This will include shifting to electricity cars, adopting alternate renewable energy sources, install solar panels in home & public places, fine particle filtration to prevent pollution from industry and many more.
+
+References: 
+https://en.wikipedia.org/wiki/Sea_ice
+https://nsidc.org/data/seaice
+http://nsidc.org/data/sipn/general-audience.html
+https://nsidc.org/data/g02135
+https://nsidc.org/cryosphere/quickfacts/seaice.html
+https://nsidc.org/cryosphere/seaice/data/terminology.html
+http://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/
+https://www.ncdc.noaa.gov/monitoring-references/dyk/arctic-ice
+https://en.wikipedia.org/wiki/Measurement_of_sea_ice
+
