@@ -62,12 +62,20 @@ Make this a priority issue for all countries so that it is addressed before all 
 
 References: 
 https://en.wikipedia.org/wiki/Sea_ice
+
 https://nsidc.org/data/seaice
+
 http://nsidc.org/data/sipn/general-audience.html
+
 https://nsidc.org/data/g02135
+
 https://nsidc.org/cryosphere/quickfacts/seaice.html
+
 https://nsidc.org/cryosphere/seaice/data/terminology.html
+
 http://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/
+
 https://www.ncdc.noaa.gov/monitoring-references/dyk/arctic-ice
+
 https://en.wikipedia.org/wiki/Measurement_of_sea_ice
 
