@@ -21,6 +21,8 @@ Also in Focus-> Government, corporations (which are directly affecting environme
 
 My aim through this project is to throw light on how the data is being misrepresented to hide the real facts. After proving that global warming is in fact a problem, I will suggest actions that could be taken to prevent further damage.
 
+WARRANT: The data for sea ice extent measure is provided by National Snow & Ice Data Center. NSIDC manages and distributes scientific data, creates tools for data access, supports data users, performs scientific research and educates the public about the cryosphere.
+
 YEARLY SEA ICE EXTENT:
 
 The following visual shows how the change in range used for “sea ice extent” affects the mindset of audience.
@@ -30,7 +32,8 @@ Looking at first graph anyone would depict that sea ice extent has been constant
 
 MONTHLY SEA ICE EXTENT:
 
-Similarly, below visual shows the comparison between monthly sea ice extent over years. Same dataset has been used, same parameters have been taken. Only the difference between colors is enough to deceive the audience and cover the change in sea ice extent over past years.
+Similarly, below visual shows the comparison between monthly sea ice extent over years. Same dataset has been used, same parameters have been taken. Only the difference between colors is enough to deceive the audience and cover the change in sea ice extent. Gradient colors used in this visual shows the sea ice extent has constantly decreased over the past years inspite of showing similar pattern throughout.
+Filter has also been added to the visual to show the decrease in sea ice extent.
 
 ![ScreenShot](https://user-images.githubusercontent.com/32226479/32976851-14a778aa-cbd5-11e7-9760-671774fadae4.png)
 
